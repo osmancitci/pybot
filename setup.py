@@ -51,11 +51,11 @@ class build(build_module.build):
 #        build_dist.bdist.run(self)
 
 setup(
-    name='Twitch-Pybot',
+    name='Twitch-servisbotu',
     description='A twitch bot with a web interface',
     author='John Iannandrea',
     author_email='jiannandrea@gmail.com',
-    url='http://github.com/isivisi/pybot',
+    url='http://github.com/osmancitci/servisbotu',
     install_requires=[
         'tornado',
         'requests'
